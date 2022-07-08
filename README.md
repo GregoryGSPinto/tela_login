@@ -1,3 +1,2 @@
 # tela_login
-Login: user
-Senha 1234
+Login: user /////   Senha: 1234
